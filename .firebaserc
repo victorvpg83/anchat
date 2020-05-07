@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "anchat-bd23a": {
+      "hosting": {
+        "anchat": [
+          "anchat-bd23a"
+        ]
+      }
+    }
+  }
+}

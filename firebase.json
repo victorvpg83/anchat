@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "anchat",
+      "public": "dist/anchat",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
