@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCilKov-i9gUEacNWGI0eN6SVSZt5hfYpo',
+    apiKey: '',
     authDomain: 'anchat-bd23a.firebaseapp.com',
     databaseURL: 'https://anchat-bd23a.firebaseio.com',
     projectId: 'anchat-bd23a',
